@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "name": "V_aDi_M",
+      "id": 15950,
+      "uniqueUrlName": null,
+      "photos": {
+        "small": null,
+        "large": null
+      },
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "AlexFox",
+      "id": 15949,
+      "uniqueUrlName": null,
+      "photos": {
+        "small": null,
+        "large": null
+      },
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "D3adduck",
+      "id": 15948,
+      "uniqueUrlName": null,
+      "photos": {
+        "small": null,
+        "large": null
+      },
+      "status": null,
+      "followed": true
+    }
+  ]
+}
