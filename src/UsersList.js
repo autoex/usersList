@@ -35,10 +35,10 @@ function UsersList() {
             "status": null,
             "followed": true
         }
-    ])
+    ]);
     return (<>
             {users.map(u=>(
-                <div className='item'>{u.name}</div>)
+                <div className='item'><h3>{u.name}</h3></div>)
             )}
 
 
